@@ -220,10 +220,12 @@ header nav a:hover {
   position: relative;
   background: #1abc9c;
 }
+
 .products .features {
   width: 100%;
   margin: 93px auto 0;
 }
+
 .products .features li {
   float: left;
   width: 255px;
